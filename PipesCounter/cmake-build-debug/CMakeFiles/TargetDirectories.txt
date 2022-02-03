@@ -1,0 +1,3 @@
+B:/CProjects/PipesCounter/cmake-build-debug/CMakeFiles/PipesCounter.dir
+B:/CProjects/PipesCounter/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/CProjects/PipesCounter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
